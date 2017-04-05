@@ -25,4 +25,6 @@ or add
 "dacduong/yii2-inlinegrid": "*"
 ```
 
-to the require section of your `composer.json` file.
+to the require section of your `composer.json` file.  
+
+Extra helper class help to Import Jira ticket from Jira REST API and Jira webhook: [helpers\JiraHelper.php](./helpers/JiraHelper.php)
